@@ -1,5 +1,5 @@
 # handson Keras
-Repositório destinado ao workshop de Deep Learning: Teoria � Pr�tica utilizando Keras
+Repositório destinado ao workshop de Deep Learning: Teoria à Prática utilizando Keras
 
 
 ## Pré-requisitos
@@ -112,5 +112,5 @@ OBS. As células devem ser rodadas sequencialmente.
 
 ## Autor
 
-Cec�lia Fl�via da Silva
+Cecília Flávia da Silva
 Empresa VSOFT 
